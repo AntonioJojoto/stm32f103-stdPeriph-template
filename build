@@ -1,1 +1,2 @@
 STD_PERIPH_LIBS=/home/tony/stm32f103-template/stdperiph/ make all
+
